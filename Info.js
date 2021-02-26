@@ -1,0 +1,16 @@
+console.log("Task 6");
+let myName = "Alina";
+let mySurname = "Hurtova";
+let group = 2021;
+let year = 1981;
+let married = true;
+//console.log("group = ", group);
+console.log(typeof group, "group = ",  group);
+console.log(typeof year, "year = ", year);
+console.log(typeof married, "married", married);
+console.log(typeof myName, "name ", myName);
+console.log(typeof mySurname, "surname ", mySurname);
+let n = null;
+let u;
+console.log(n);
+console.log(u);
